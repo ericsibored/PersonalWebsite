@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Monochromed by TEMPLATED</title>
+		<title>Eric Zhang</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -54,13 +54,14 @@
 		<div id="main">
 			<div class="container">
 				<header>
-					<h2>Projects and Hobbies</h2>
+					<h2>Projects</h2>
 				</header>
 				<div class="row">
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics01.jpg" alt="" /></a>
-							<p>Endovascular Torque Device</p>
+							<p>Endovascular Torque Device: 
+							Worked with a group of six undergraduate engineers to develop an improved device for torque application for physicians in the department of Vascular Surgery at the University of Pittsburgh Medical Center (UPMC).</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
@@ -74,14 +75,16 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics12.jpg" alt="" /></a>
-							<p>Music Maestro: Ergonomic Composition Interface</p>
+							<p>Music Maestro: An Ergonomic Instrumental Composition Interface:
+							Designed a low-cost interface for real-time MIDI composition on fretless stringed instruments.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics13.jpg" alt="" /></a>
-							<p>Effects of ADP and AP4A on Platelet Sensitization</p>
+							<p>Biofluids Research: 
+							Investigated the effects of adenosine diphosphate and diadenosine tetraphosphate on platelet activation and sensitization.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
