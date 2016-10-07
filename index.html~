@@ -60,7 +60,7 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics01.jpg" alt="" /></a>
-							<p><span class="bold" >Endovascular Torque Device</span><BR> 
+							<p><span class="bold" >Endovascular Torque Device</span><P> 
 							Worked with a group of six undergraduate engineers to develop an improved device for torque application for physicians in the department of Vascular Surgery at the University of Pittsburgh Medical Center (UPMC).</p>
 							<a href="#" class="button">Read More</a>
 						</section>
@@ -68,7 +68,7 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics11.jpg" alt="" /></a>
-							<p><span class="bold" >Bonsai Bubble: SteelHacks 2016</span><BR>
+							<p><span class="bold" >Bonsai Bubble: SteelHacks 2016</span><P>
 							Top 10 Projects, designed a Bonsai enclosure and monitoring system for optimal plant care.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
@@ -76,7 +76,7 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics12.jpg" alt="" /></a>
-							<p><span class="bold" >Music Maestro: An Ergonomic Instrumental Composition Interface</span><BR>
+							<p><span class="bold" >Music Maestro: An Ergonomic Instrumental Composition Interface</span><P>
 							Designed a low-cost interface for real-time MIDI composition on fretless stringed instruments.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
@@ -84,7 +84,7 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics13.jpg" alt="" /></a>
-							<p><span class="bold" >Biofluids Research</span><BR> 
+							<p><span class="bold" >Biofluids Research</span><P> 
 							Investigated the effects of adenosine diphosphate and diadenosine tetraphosphate on platelet activation and sensitization.</p>
 							<a href="#" class="button">Read More</a>
 						</section>
