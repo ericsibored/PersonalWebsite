@@ -39,10 +39,10 @@
 					<nav id="nav">
 						<ul>
 							<li class="active"><a href="index.html">Homepage</a></li>
-							<li><a href="threecolumn.html">Two Sidebars</a></li>
-							<li><a href="twocolumn1.html">Left Sidebar</a></li>
-							<li><a href="twocolumn2.html">Right Sidebar</a></li>
-							<li><a href="onecolumn.html">No Sidebar</a></li>
+							<li><a href="About.html">About</a></li>
+							<li><a href="Projects.html">Projects</a></li>
+							<li><a href="Acapella.html">Acapella</a></li>
+							<li><a href="Contact.html">Contact</a></li>
 						</ul>
 					</nav>
 
@@ -60,28 +60,28 @@
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics01.jpg" alt="" /></a>
-							<p>Quisque dictum. Pellentesque viverra  enim. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
+							<p>Endovascular Torque Device</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics11.jpg" alt="" /></a>
-							<p>Pellentesque viverra  enim. Tristique ante ut risus. Quisque dictum. Integer sagittis convallis elementum.</p>
+							<p>Bonsai Bubble: SteelHacks 2016</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics12.jpg" alt="" /></a>
-							<p>Pellentesque viverra  enim. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum.</p>
+							<p>Music Maestro: Ergonomic Composition Interface</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
 					<div class="3u">
 						<section>
 							<a href="#" class="image full"><img src="images/pics13.jpg" alt="" /></a>
-							<p>Tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis elementum.</p>
+							<p>Effects of ADP and AP4A on Platelet Sensitization</p>
 							<a href="#" class="button">Read More</a>
 						</section>
 					</div>
@@ -93,7 +93,7 @@
 						<div class="8u skel-cell-important">
 							<section id="content">
 								<header>
-									<h2>Integer gravida nibh quis urna</h2>
+									<h2>About Me</h2>
 									<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum</span>
 								</header>
 								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
@@ -107,7 +107,7 @@
 						<div id="sidebar" class="4u">
 							<section>
 								<header>
-									<h2>Gravida praesent</h2>
+									<h2>Links to Blogposts..?</h2>
 									<span class="byline">Praesent lacus congue rutrum</span>
 								</header>
 								<p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
