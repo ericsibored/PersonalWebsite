@@ -38,8 +38,8 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li class="active"><a href="index.html">Homepage</a></li>
-							<li><a href="About.html">About</a></li>
+							<li><a href="index.html">Homepage</a></li>
+							<li class="active"><a href="About.html">About</a></li>
 							<li><a href="Blog.html">Blog</a></li>
 							<li><a href="Gallery.html">Gallery</a></li>
 							<li><a href="Contact.html">Contact</a></li>
@@ -78,11 +78,14 @@
 						<div id="content" class="6u skel-cell-important">
 							<section>
 								<header>
-									<h2>Two Sidebars</h2>
-									<span class="byline">Praesent lacus at urna congue rutrum</span>
+									<h2>About Me</h2>
+									<span class="byline">Eric Zhang - Undergraduate, Tech Enthusiast, Hacker</span>
 								</header>
 								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
-								<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. Fusce odio. Etiam arcu dui, faucibus eget, placerat vel, sodales eget, orci. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem ultricies. Phasellus tempor vehicula justo.</p>
+								<p>I am a junior bioengineering student at the University of Pittsburgh minoring in chemistry and mechanical engineering. I'm always curious to see how new technologies effect the way we interact with the world, and love to share that knowledge with others. I got started with that in sophomore year as the workshop coordinator for Design Hub, a student organization centered around the education and application of useful skills to real world problems. 
+								<BR><BR>
+							I was accepted into the Microsoft Student Partner program just before junior year began, which provided me with both training and resources to teach myself and others new and useful skills. This website is one noteworthy example of the results (hosted by Azure, created on 10/08/2016).  
+								</p>
 							</section>
 						</div>
 					<!-- /Content -->
@@ -91,10 +94,11 @@
 						<div id="sidebar" class="3u">
 							<section>
 								<header>
-									<h2>Gravida praesent</h2>
-									<span class="byline">Praesent lacus congue rutrum</span>
+									<h2>ericsibored</h2>
+									<span class="byline">Pianist, Cellist & Musician</span>
 								</header>
-								<p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
+								<p>As a classically trained pianist, I spent 8 years playing solo classical repertoire before picking up the cello and playing with orchestras, chamber groups, and garage bands. Groups like ThePianoGuys and 2Cellos have had a major influence on my style and arrangements, as well as my appreciation many genres pop and classical to metal and rock.<BR>
+								Now that I have less time to collaborate with other musicians in person, I spend my time recording myself with others on the Acapella app @ericsibored .</p>
 								<ul class="default">
 									<li><a href="#">Pellentesque quis lectus</a></li>
 									<li><a href="#">Lorem ipsum adipiscing elit</a></li>
