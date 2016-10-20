@@ -62,7 +62,7 @@
 									<h2>Workshops</h2>
 									<span class="byline">Repository for any of my Microsoft or Design Hub workshop materials.</span>
 								</header>
-								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
+								<p><a href="http://zhangeric.azurewebsites.net/2016/10/20/design-hub-workshop-signing-up-and-getting-azure-set-up/" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
 								<p>Click the picture to find more detailed instructions about Part I of Web Development with Azure.</p>
 							</section>
 						</div>
@@ -73,16 +73,17 @@
 							<section>
 								<header>
 									<h2>Featured Posts</h2>
-									<span class="byline">Memories that stand out</span>
+									<span class="byline">Workshops that stand out</span>
 								</header>
-								<p>Linked below are highlights from my experiences, that I consider worth sharing with others. Hopefully, you'll find them as interesting as I did.</p>
+								<p>Linked below are highlights the workshops that I've run in the past. I hope you'll find them instructive and useful. The website is still relatively new so there currently isn't anything listed, but I'll be updating this page regularly.</p>
 								<ul class="default">
-									<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
+								<!--	<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
 									<li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
 									<li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
 									<li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
 									<li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
 									<li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
+								-->
 								</ul>
 							</section>
 						</div>
